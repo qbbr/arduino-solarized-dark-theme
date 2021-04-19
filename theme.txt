@@ -20,7 +20,7 @@ status.font = Terminus TTF,plain,12
 # GUI - TABS
 # settings for the tabs at the top
 # (tab images are stored in the lib/theme folder)
-header.bgcolor = #586e75
+header.bgcolor = #002B36
 header.text.selected.color = #93A1A1
 header.text.unselected.color = #93A1A1
 header.text.font = Terminus TTF,plain,12
